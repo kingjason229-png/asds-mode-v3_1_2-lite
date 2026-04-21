@@ -1,0 +1,15 @@
+{
+  "name": "asds-mode",
+  "version": "3.1.0",
+  "description": "ASDS Lite - 全自动 AI 开发工作流 for OpenClaw",
+  "repo": "kingjason229-png/asds-mode",
+  "install_script": "install.sh",
+  "uninstall_script": "uninstall.sh",
+  "platforms": ["darwin", "linux"],
+  "requires": ["python3>=3.10", "git", "openclaw"],
+  "created_at": "2026-04-17",
+  "changelog": [
+    "3.1.0 - 完整重构，瘦身后的小型化版本",
+    "3.0.0 - 初始版本"
+  ]
+}
