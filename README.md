@@ -1,6 +1,6 @@
-# ASDS Lite 一键安装包
+# ASDS Lite 3.1.2 最小侵入增强版
 
-> 跨境电商 + 软件开发 全自动 AI 开发工作流
+> 跨境电商 + 软件开发 全自动 AI 开发工作流（3.1.2 最小侵入增强版快照）
 
 ## 特性
 
@@ -19,7 +19,7 @@
 ### macOS / Linux 一键安装
 
 ```bash
-bash -c "$(curl -fsSL https://raw.githubusercontent.com/kingjason229-png/asds-mode/main/install.sh)"
+bash -c "$(curl -fsSL https://raw.githubusercontent.com/kingjason229-png/asds-mode-v3_1_2-lite/main/install.sh)"
 ```
 
 或手动下载后：
